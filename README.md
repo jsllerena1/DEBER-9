@@ -1,11 +1,10 @@
 # DEBER-9
 1. OBJETIVOS
-
-Objetivo General
+## OBJETIVOS GENERAKES
 
 • Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 17 y 18, dado que es importante analizar los circuitos RCL, Resonancia y los Filtros pasivos.
 
-Objetivo Especificos
+##OBJETIVOS ESPECIFICOS
 
 • Conocer sonbre los circuitos RCL, ya sea en serie, paralelo y serie-paralelo, asi mismo la resonancia y los distintos tipos de filtros que se pueden encontrar, logrando distinguir cada uno de ellos.
 
@@ -414,7 +413,7 @@ Resolución
 
 4. VIDEO
 
-https://youtu.be/7rfrd1emc7E
+https://youtu.be/7rfrd1emc7
 
 5. CONCLUSIONES
 
